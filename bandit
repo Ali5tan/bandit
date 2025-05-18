@@ -1,3 +1,13 @@
 #!/bin/bash
 
-ssh bandit$1@bandit.labs.overthewire.org -p 2220
+if [ -z "$1" ]; then
+  echo "Usage: $0 <level>"
+  exit 1
+fi
+
+LEVEL=$1
+USER="bandit${LEVEL}"
+HOST="bandit.labs.overthewire.org"
+PORT=2220
+
+ssh ${USER}@${HOST} -p ${PORT}
