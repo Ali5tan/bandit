@@ -1,0 +1,14 @@
+cd $(mktemp -d)
+cp ~/data.txt .
+xxd -r data.txt > data.gzip
+
+gunzip data.gzip --to-stdout > data.bzip2
+bunzip2 data.bzip2 -c > data.gzip
+gunzip data.gzip --to-stdout > data.tar
+tar xvf data.tar
+tar xvf data5.bin
+bunzip2 data6.bin -c > data.tar
+tar xvf data.tar
+gunzip data8.bin --to-stdout > data
+
+cat data

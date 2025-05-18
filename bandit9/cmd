@@ -1,0 +1,1 @@
+strings data.txt | grep -E '^=+[ |\t]*\w{32}$'

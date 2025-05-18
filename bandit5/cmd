@@ -1,0 +1,1 @@
+find . -size 1033c -type f -perm /a+r -exec grep -E '^\w+$' {} \;
