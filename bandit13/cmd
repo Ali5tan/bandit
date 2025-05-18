@@ -1,0 +1,1 @@
+ssh -i sshkey.private -p 2220 bandit14@localhost -o StrictHostKeyChecking=no 'cat /etc/bandit_pass/bandit14'
