@@ -5,6 +5,7 @@ This repository contains my personal solutions to the OverTheWire Bandit wargame
 ## How to Login
 
 You can connect to any Bandit level using SSH directly or with the custom `bandit` executable.
+The password for level 0 is **`bandit0`**.
 
 ### Using SSH
 
@@ -28,8 +29,8 @@ This will connect you to the corresponding level without typing the full SSH com
 
 - Each level is in its own folder named `bandit<X>`, where `<X>` is the level number.
 - Inside each folder:
-  - `cmd` — the command(s) used to solve the level.
-  - `password` — the password for the next level.
+  - `cmd` - the command(s) used to solve the level.
+  - `password` - the password for the next level.
 
 ## Usage
 
